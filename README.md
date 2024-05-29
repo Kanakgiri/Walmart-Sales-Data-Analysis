@@ -129,7 +129,7 @@ CREATE TABLE IF NOT EXISTS sales(
     rating FLOAT(2, 1)
 );
 ```
-
+For the rest of the code, check the [wal.sql](https://github.com/Kanakgiri/Walmart-Sales-Data-Analysis/blob/main/wal.sql) file
 
 
 
